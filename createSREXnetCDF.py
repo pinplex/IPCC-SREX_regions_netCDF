@@ -17,8 +17,8 @@ import matplotlib.pyplot as plt
 import time
 
 ## define resolution in degree
-lon_res = 0.5
-lat_res = 0.5
+lon_res = 1.875
+lat_res = 1.875
 
 ## specify resolutions
 lon = np.arange(-180, 180, lon_res)
